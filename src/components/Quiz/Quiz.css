@@ -1,0 +1,29 @@
+.question{
+    /* border: solid 1px #000; */
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    /* cursor: pointer; */
+    background-color: #000;
+    color: #fff;
+}
+
+.answersContainer{
+    list-style: none;
+    padding-left: 0;
+}
+
+.link{
+    color: #fff;
+    background-color: #000;
+    
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.link:hover{
+    background-color: #939090;
+    color: #cfcfcf;
+}
